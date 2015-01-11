@@ -6,7 +6,7 @@
 
 class DateAndTime
 {
-    static void Main(string[] args)
+    static void Main()
     {
         DateTime now = DateTime.Now;
         Console.WriteLine(now);
